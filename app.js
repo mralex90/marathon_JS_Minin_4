@@ -1,6 +1,6 @@
 const board = document.querySelector('#board')
-const colors = ['#e74c3c', '#8e44ad', '#3498db', '#e67e22', '#2ecc71']
-const SQUEARES_NUMBER = 500
+const colors = ['#e74c3c', '#8e44ad','#2e5e84', '#bbd70b', '#3498db', '#e67e22', '#2ecc71','#fbf2eb', '#fa9705', '#d7beac','#16da41','#db3f3f','#6b5555','#3dbddd','#f3e51e','#ad2685']
+const SQUEARES_NUMBER = 600
 
 for (let i = 0; i < SQUEARES_NUMBER; i++) {
     const square = document.createElement('div')
